@@ -1,6 +1,6 @@
 ﻿namespace sample
 {
-  class mohit
+  class Mohit
   {
     public static void Main(String[] args)
     {
