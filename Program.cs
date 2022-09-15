@@ -4,7 +4,7 @@
   {
     public static void Main(String[] args)
     {
-      Console.WriteLine("Mohit taught me this GITHUB day to day use.");
+      Console.WriteLine("Mohit taught me this GIT day to day use.");
     }
   }
 }
